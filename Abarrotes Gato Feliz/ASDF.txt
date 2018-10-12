@@ -1,0 +1,16 @@
+Login
+ -Crear
+
+-Menu
+
+-Mostrar
+ -Añadir
+ -Buscar
+ -Modificar
+-Administador(Oculto)
+ -Crear
+ -Eliminar
+ -Otorgar Permiso
+-Salir
+
+meltys quest
